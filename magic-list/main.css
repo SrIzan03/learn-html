@@ -1,0 +1,21 @@
+#header-top-bar .header-top-bar {
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.nav > a{
+  padding: 8px 16px;
+  float: left;
+  text-align: center;
+}
+
+.header {
+  padding-bottom: 2rem;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.header > h1 {
+  color: white;
+}
